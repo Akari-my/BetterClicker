@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "betterclicker"
+version = "0.1.0"
+description = "BetterClicker (Windows) - modern auto clicker"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+betterclicker = "main:main"
+
+[tool.betterclicker]
+entry = "main.py"
