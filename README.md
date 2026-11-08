@@ -64,4 +64,4 @@ The executable will be created in the selected dist/output folder.
 
 ## Credits
 
-- **by @Akari-my Github**
+- **by @Akari-my**
